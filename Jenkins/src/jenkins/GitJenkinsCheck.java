@@ -7,7 +7,7 @@ public class GitJenkinsCheck {
 	
 	@Test
 	public void printMsg() {
-		Reporter.log("Hello World", true);
+		Reporter.log("Hello World  ", true);
 	}
 
 }
